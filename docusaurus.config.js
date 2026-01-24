@@ -10,8 +10,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // --- General Info (Using your updated details) ---
-  title: "Vidhya Dharan Blog",
-  tagline: "Hi, I am Vidhya Dharan S S",
+  title: "Hi, I am Vidhya Dharan S S.",
+  tagline: "Welcome to my Blog!",
   favicon: "img/favicon_io/337b1ccca70a7a173f9f0f0acecc8586 (1).jpg",
 
   // Future flags
