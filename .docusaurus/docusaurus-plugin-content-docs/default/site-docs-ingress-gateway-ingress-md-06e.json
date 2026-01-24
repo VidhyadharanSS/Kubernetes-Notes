@@ -1,0 +1,28 @@
+{
+  "id": "ingress-gateway/ingress",
+  "title": "ingress",
+  "description": "Content coming soon...",
+  "source": "@site/docs/ingress-gateway/ingress.md",
+  "sourceDirName": "ingress-gateway",
+  "slug": "/ingress-gateway/ingress",
+  "permalink": "/ingress-gateway/ingress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/ingress-gateway/ingress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ingress",
+    "title": "ingress",
+    "sidebar_label": "ingress"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "dns coredns",
+    "permalink": "/networking/dns-coredns"
+  },
+  "next": {
+    "title": "gateway api",
+    "permalink": "/ingress-gateway/gateway-api"
+  }
+}

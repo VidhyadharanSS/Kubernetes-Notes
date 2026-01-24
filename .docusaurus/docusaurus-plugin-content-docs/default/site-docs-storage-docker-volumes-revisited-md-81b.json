@@ -1,0 +1,28 @@
+{
+  "id": "storage/docker-volumes-revisited",
+  "title": "docker volumes revisited",
+  "description": "Content coming soon...",
+  "source": "@site/docs/storage/docker-volumes-revisited.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/docker-volumes-revisited",
+  "permalink": "/storage/docker-volumes-revisited",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/storage/docker-volumes-revisited.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-volumes-revisited",
+    "title": "docker volumes revisited",
+    "sidebar_label": "docker volumes revisited"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "core extensions plugins",
+    "permalink": "/resource-management/core-extensions-plugins"
+  },
+  "next": {
+    "title": "volumes ephemeral emptydir downward api",
+    "permalink": "/storage/volumes-ephemeral-emptydir-downward-api"
+  }
+}

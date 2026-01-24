@@ -1,0 +1,28 @@
+{
+  "id": "workloads-services/imperative-commands",
+  "title": "imperative commands",
+  "description": "Content coming soon...",
+  "source": "@site/docs/workloads-services/imperative-commands.md",
+  "sourceDirName": "workloads-services",
+  "slug": "/workloads-services/imperative-commands",
+  "permalink": "/workloads-services/imperative-commands",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/workloads-services/imperative-commands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "imperative-commands",
+    "title": "imperative commands",
+    "sidebar_label": "imperative commands"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "design patterns microservices",
+    "permalink": "/workloads-services/design-patterns-microservices"
+  },
+  "next": {
+    "title": "services namespaces",
+    "permalink": "/workloads-services/services-namespaces"
+  }
+}

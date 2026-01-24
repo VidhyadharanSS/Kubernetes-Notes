@@ -1,0 +1,28 @@
+{
+  "id": "scheduling/taints-tolerations-node-selectors-affinity",
+  "title": "taints tolerations node selectors affinity",
+  "description": "Content coming soon...",
+  "source": "@site/docs/scheduling/taints-tolerations-node-selectors-affinity.md",
+  "sourceDirName": "scheduling",
+  "slug": "/scheduling/taints-tolerations-node-selectors-affinity",
+  "permalink": "/scheduling/taints-tolerations-node-selectors-affinity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/scheduling/taints-tolerations-node-selectors-affinity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "taints-tolerations-node-selectors-affinity",
+    "title": "taints tolerations node selectors affinity",
+    "sidebar_label": "taints tolerations node selectors affinity"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "manual scheduling static pods",
+    "permalink": "/scheduling/manual-scheduling-static-pods"
+  },
+  "next": {
+    "title": "resource limits ranges quotas",
+    "permalink": "/resource-management/resource-limits-ranges-quotas"
+  }
+}

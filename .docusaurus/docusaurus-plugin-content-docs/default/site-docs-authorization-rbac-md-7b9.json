@@ -1,0 +1,28 @@
+{
+  "id": "authorization/rbac",
+  "title": "ruac",
+  "description": "Content coming soon...",
+  "source": "@site/docs/authorization/rbac.md",
+  "sourceDirName": "authorization",
+  "slug": "/authorization/rbac",
+  "permalink": "/authorization/rbac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/authorization/rbac.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "rbac",
+    "title": "ruac",
+    "sidebar_label": "ruac"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "authorization mechanisms",
+    "permalink": "/authorization/authorization-mechanisms"
+  },
+  "next": {
+    "title": "service accounts",
+    "permalink": "/authorization/service-accounts"
+  }
+}

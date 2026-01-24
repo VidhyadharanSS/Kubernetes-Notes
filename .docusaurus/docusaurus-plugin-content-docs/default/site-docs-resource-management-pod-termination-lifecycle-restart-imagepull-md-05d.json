@@ -1,0 +1,28 @@
+{
+  "id": "resource-management/pod-termination-lifecycle-restart-imagepull",
+  "title": "pod termination lifecycle restart imagepull",
+  "description": "Content coming soon...",
+  "source": "@site/docs/resource-management/pod-termination-lifecycle-restart-imagepull.md",
+  "sourceDirName": "resource-management",
+  "slug": "/resource-management/pod-termination-lifecycle-restart-imagepull",
+  "permalink": "/resource-management/pod-termination-lifecycle-restart-imagepull",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/resource-management/pod-termination-lifecycle-restart-imagepull.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pod-termination-lifecycle-restart-imagepull",
+    "title": "pod termination lifecycle restart imagepull",
+    "sidebar_label": "pod termination lifecycle restart imagepull"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "multi container pod patterns",
+    "permalink": "/resource-management/multi-container-pod-patterns"
+  },
+  "next": {
+    "title": "health proues",
+    "permalink": "/resource-management/health-probes"
+  }
+}

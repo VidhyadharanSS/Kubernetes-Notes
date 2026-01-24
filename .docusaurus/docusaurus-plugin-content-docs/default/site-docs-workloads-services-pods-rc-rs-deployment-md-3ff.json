@@ -1,0 +1,28 @@
+{
+  "id": "workloads-services/pods-rc-rs-deployment",
+  "title": "pods rc rs deployment",
+  "description": "Content coming soon...",
+  "source": "@site/docs/workloads-services/pods-rc-rs-deployment.md",
+  "sourceDirName": "workloads-services",
+  "slug": "/workloads-services/pods-rc-rs-deployment",
+  "permalink": "/workloads-services/pods-rc-rs-deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/workloads-services/pods-rc-rs-deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pods-rc-rs-deployment",
+    "title": "pods rc rs deployment",
+    "sidebar_label": "pods rc rs deployment"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "workflow",
+    "permalink": "/architecture-workflow/workflow"
+  },
+  "next": {
+    "title": "design patterns microservices",
+    "permalink": "/workloads-services/design-patterns-microservices"
+  }
+}

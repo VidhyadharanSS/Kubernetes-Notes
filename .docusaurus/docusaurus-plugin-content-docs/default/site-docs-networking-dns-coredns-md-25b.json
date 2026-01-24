@@ -1,0 +1,28 @@
+{
+  "id": "networking/dns-coredns",
+  "title": "dns coredns",
+  "description": "Content coming soon...",
+  "source": "@site/docs/networking/dns-coredns.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/dns-coredns",
+  "permalink": "/networking/dns-coredns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/networking/dns-coredns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dns-coredns",
+    "title": "dns coredns",
+    "sidebar_label": "dns coredns"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "network policies",
+    "permalink": "/networking/network-policies"
+  },
+  "next": {
+    "title": "ingress",
+    "permalink": "/ingress-gateway/ingress"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "architecture-workflow/architecture",
+  "title": "Kubernetes Architecture",
+  "description": "Kubernetes is an open-source container orchestration platform.",
+  "source": "@site/docs/architecture-workflow/architecture.md",
+  "sourceDirName": "architecture-workflow",
+  "slug": "/architecture-workflow/architecture",
+  "permalink": "/architecture-workflow/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/architecture-workflow/architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "architecture",
+    "title": "Kubernetes Architecture",
+    "sidebar_label": "Architecture",
+    "sidebar_position": 1
+  },
+  "sidebar": "kubernetesSidebar",
+  "next": {
+    "title": "workflow",
+    "permalink": "/architecture-workflow/workflow"
+  }
+}

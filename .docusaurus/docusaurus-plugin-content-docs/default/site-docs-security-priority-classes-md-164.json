@@ -1,0 +1,28 @@
+{
+  "id": "security/priority-classes",
+  "title": "priority classes",
+  "description": "Content coming soon...",
+  "source": "@site/docs/security/priority-classes.md",
+  "sourceDirName": "security",
+  "slug": "/security/priority-classes",
+  "permalink": "/security/priority-classes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/security/priority-classes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "priority-classes",
+    "title": "priority classes",
+    "sidebar_label": "priority classes"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "image pull secrets",
+    "permalink": "/security/image-pull-secrets"
+  },
+  "next": {
+    "title": "network policies",
+    "permalink": "/networking/network-policies"
+  }
+}

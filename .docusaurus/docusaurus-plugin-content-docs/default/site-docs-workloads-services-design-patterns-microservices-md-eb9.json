@@ -1,0 +1,28 @@
+{
+  "id": "workloads-services/design-patterns-microservices",
+  "title": "design patterns microservices",
+  "description": "Content coming soon...",
+  "source": "@site/docs/workloads-services/design-patterns-microservices.md",
+  "sourceDirName": "workloads-services",
+  "slug": "/workloads-services/design-patterns-microservices",
+  "permalink": "/workloads-services/design-patterns-microservices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/workloads-services/design-patterns-microservices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "design-patterns-microservices",
+    "title": "design patterns microservices",
+    "sidebar_label": "design patterns microservices"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "pods rc rs deployment",
+    "permalink": "/workloads-services/pods-rc-rs-deployment"
+  },
+  "next": {
+    "title": "imperative commands",
+    "permalink": "/workloads-services/imperative-commands"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "storage/daemonsets-jobs-cronjobs",
+  "title": "daemonsets jous cronjous",
+  "description": "Content coming soon...",
+  "source": "@site/docs/storage/daemonsets-jobs-cronjobs.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/daemonsets-jobs-cronjobs",
+  "permalink": "/storage/daemonsets-jobs-cronjobs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/storage/daemonsets-jobs-cronjobs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "daemonsets-jobs-cronjobs",
+    "title": "daemonsets jous cronjous",
+    "sidebar_label": "daemonsets jous cronjous"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "configmaps secrets",
+    "permalink": "/storage/configmaps-secrets"
+  },
+  "next": {
+    "title": "symmetric asymmetric encryption https",
+    "permalink": "/authentication/symmetric-asymmetric-encryption-https"
+  }
+}

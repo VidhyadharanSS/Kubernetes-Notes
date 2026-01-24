@@ -1,0 +1,218 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "architecture-workflow/architecture",
+          "docs": [
+            {
+              "id": "architecture-workflow/architecture",
+              "path": "/architecture-workflow/architecture",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "architecture-workflow/workflow",
+              "path": "/architecture-workflow/workflow",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authentication/symmetric-asymmetric-encryption-https",
+              "path": "/authentication/symmetric-asymmetric-encryption-https",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authentication/tls-in-kubernetes",
+              "path": "/authentication/tls-in-kubernetes",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authorization/admission-controllers",
+              "path": "/authorization/admission-controllers",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authorization/authorization-mechanisms",
+              "path": "/authorization/authorization-mechanisms",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authorization/rbac",
+              "path": "/authorization/rbac",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "authorization/service-accounts",
+              "path": "/authorization/service-accounts",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "crds-operators/crds",
+              "path": "/crds-operators/crds",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "crds-operators/operators",
+              "path": "/crds-operators/operators",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "ingress-gateway/gateway-api",
+              "path": "/ingress-gateway/gateway-api",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "ingress-gateway/ingress",
+              "path": "/ingress-gateway/ingress",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "kustomize-helm/helm",
+              "path": "/kustomize-helm/helm",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "kustomize-helm/kustomize",
+              "path": "/kustomize-helm/kustomize",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "kustomize-helm/statefulsets",
+              "path": "/kustomize-helm/statefulsets",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "networking/dns-coredns",
+              "path": "/networking/dns-coredns",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "networking/network-policies",
+              "path": "/networking/network-policies",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/core-extensions-plugins",
+              "path": "/resource-management/core-extensions-plugins",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/health-probes",
+              "path": "/resource-management/health-probes",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/hpa-vpa",
+              "path": "/resource-management/hpa-vpa",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/multi-container-pod-patterns",
+              "path": "/resource-management/multi-container-pod-patterns",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/pod-termination-lifecycle-restart-imagepull",
+              "path": "/resource-management/pod-termination-lifecycle-restart-imagepull",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "resource-management/resource-limits-ranges-quotas",
+              "path": "/resource-management/resource-limits-ranges-quotas",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "scheduling/manual-scheduling-static-pods",
+              "path": "/scheduling/manual-scheduling-static-pods",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "scheduling/taints-tolerations-node-selectors-affinity",
+              "path": "/scheduling/taints-tolerations-node-selectors-affinity",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "security/image-pull-secrets",
+              "path": "/security/image-pull-secrets",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "security/pod-security-standards",
+              "path": "/security/pod-security-standards",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "security/priority-classes",
+              "path": "/security/priority-classes",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/configmaps-secrets",
+              "path": "/storage/configmaps-secrets",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/daemonsets-jobs-cronjobs",
+              "path": "/storage/daemonsets-jobs-cronjobs",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/docker-volumes-revisited",
+              "path": "/storage/docker-volumes-revisited",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/volumes-ephemeral-emptydir-downward-api",
+              "path": "/storage/volumes-ephemeral-emptydir-downward-api",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/volumes-persistent-in-tree-csi-hostpath",
+              "path": "/storage/volumes-persistent-in-tree-csi-hostpath",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "storage/volumes-persistent-pv-pvc-storage-classes",
+              "path": "/storage/volumes-persistent-pv-pvc-storage-classes",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "workloads-services/design-patterns-microservices",
+              "path": "/workloads-services/design-patterns-microservices",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "workloads-services/imperative-commands",
+              "path": "/workloads-services/imperative-commands",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "workloads-services/pods-rc-rs-deployment",
+              "path": "/workloads-services/pods-rc-rs-deployment",
+              "sidebar": "kubernetesSidebar"
+            },
+            {
+              "id": "workloads-services/services-namespaces",
+              "path": "/workloads-services/services-namespaces",
+              "sidebar": "kubernetesSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "kubernetesSidebar": {
+              "link": {
+                "path": "/architecture-workflow/architecture",
+                "label": "architecture-workflow/architecture"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

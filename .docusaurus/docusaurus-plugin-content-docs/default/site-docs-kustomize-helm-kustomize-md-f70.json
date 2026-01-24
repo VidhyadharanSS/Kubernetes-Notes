@@ -1,0 +1,28 @@
+{
+  "id": "kustomize-helm/kustomize",
+  "title": "kustomize",
+  "description": "Content coming soon...",
+  "source": "@site/docs/kustomize-helm/kustomize.md",
+  "sourceDirName": "kustomize-helm",
+  "slug": "/kustomize-helm/kustomize",
+  "permalink": "/kustomize-helm/kustomize",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/kustomize-helm/kustomize.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "kustomize",
+    "title": "kustomize",
+    "sidebar_label": "kustomize"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "operators",
+    "permalink": "/crds-operators/operators"
+  },
+  "next": {
+    "title": "helm",
+    "permalink": "/kustomize-helm/helm"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "authorization/authorization-mechanisms",
+  "title": "authorization mechanisms",
+  "description": "Content coming soon...",
+  "source": "@site/docs/authorization/authorization-mechanisms.md",
+  "sourceDirName": "authorization",
+  "slug": "/authorization/authorization-mechanisms",
+  "permalink": "/authorization/authorization-mechanisms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/authorization/authorization-mechanisms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "authorization-mechanisms",
+    "title": "authorization mechanisms",
+    "sidebar_label": "authorization mechanisms"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "tls in kuuernetes",
+    "permalink": "/authentication/tls-in-kubernetes"
+  },
+  "next": {
+    "title": "ruac",
+    "permalink": "/authorization/rbac"
+  }
+}

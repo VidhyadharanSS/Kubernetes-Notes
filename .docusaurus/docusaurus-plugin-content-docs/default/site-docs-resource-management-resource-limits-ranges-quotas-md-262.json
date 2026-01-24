@@ -1,0 +1,28 @@
+{
+  "id": "resource-management/resource-limits-ranges-quotas",
+  "title": "resource limits ranges quotas",
+  "description": "Content coming soon...",
+  "source": "@site/docs/resource-management/resource-limits-ranges-quotas.md",
+  "sourceDirName": "resource-management",
+  "slug": "/resource-management/resource-limits-ranges-quotas",
+  "permalink": "/resource-management/resource-limits-ranges-quotas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/resource-management/resource-limits-ranges-quotas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "resource-limits-ranges-quotas",
+    "title": "resource limits ranges quotas",
+    "sidebar_label": "resource limits ranges quotas"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "taints tolerations node selectors affinity",
+    "permalink": "/scheduling/taints-tolerations-node-selectors-affinity"
+  },
+  "next": {
+    "title": "hpa vpa",
+    "permalink": "/resource-management/hpa-vpa"
+  }
+}

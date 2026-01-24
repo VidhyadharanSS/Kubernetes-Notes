@@ -1,0 +1,28 @@
+{
+  "id": "kustomize-helm/statefulsets",
+  "title": "statefulsets",
+  "description": "Content coming soon...",
+  "source": "@site/docs/kustomize-helm/statefulsets.md",
+  "sourceDirName": "kustomize-helm",
+  "slug": "/kustomize-helm/statefulsets",
+  "permalink": "/kustomize-helm/statefulsets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/kustomize-helm/statefulsets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "statefulsets",
+    "title": "statefulsets",
+    "sidebar_label": "statefulsets"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "helm",
+    "permalink": "/kustomize-helm/helm"
+  },
+  "next": {
+    "title": "pod security standards",
+    "permalink": "/security/pod-security-standards"
+  }
+}

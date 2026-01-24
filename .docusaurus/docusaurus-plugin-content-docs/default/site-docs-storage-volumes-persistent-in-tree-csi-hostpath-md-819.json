@@ -1,0 +1,28 @@
+{
+  "id": "storage/volumes-persistent-in-tree-csi-hostpath",
+  "title": "volumes persistent in tree csi hostpath",
+  "description": "Content coming soon...",
+  "source": "@site/docs/storage/volumes-persistent-in-tree-csi-hostpath.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/volumes-persistent-in-tree-csi-hostpath",
+  "permalink": "/storage/volumes-persistent-in-tree-csi-hostpath",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/storage/volumes-persistent-in-tree-csi-hostpath.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "volumes-persistent-in-tree-csi-hostpath",
+    "title": "volumes persistent in tree csi hostpath",
+    "sidebar_label": "volumes persistent in tree csi hostpath"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "volumes ephemeral emptydir downward api",
+    "permalink": "/storage/volumes-ephemeral-emptydir-downward-api"
+  },
+  "next": {
+    "title": "volumes persistent pv pvc storage classes",
+    "permalink": "/storage/volumes-persistent-pv-pvc-storage-classes"
+  }
+}

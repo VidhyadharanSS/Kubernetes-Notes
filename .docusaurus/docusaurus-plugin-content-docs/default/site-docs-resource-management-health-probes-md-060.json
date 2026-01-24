@@ -1,0 +1,28 @@
+{
+  "id": "resource-management/health-probes",
+  "title": "health proues",
+  "description": "Content coming soon...",
+  "source": "@site/docs/resource-management/health-probes.md",
+  "sourceDirName": "resource-management",
+  "slug": "/resource-management/health-probes",
+  "permalink": "/resource-management/health-probes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/VidhyadharanSS/Kubernetes-Notes/tree/main/docs/resource-management/health-probes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "health-probes",
+    "title": "health proues",
+    "sidebar_label": "health proues"
+  },
+  "sidebar": "kubernetesSidebar",
+  "previous": {
+    "title": "pod termination lifecycle restart imagepull",
+    "permalink": "/resource-management/pod-termination-lifecycle-restart-imagepull"
+  },
+  "next": {
+    "title": "core extensions plugins",
+    "permalink": "/resource-management/core-extensions-plugins"
+  }
+}
