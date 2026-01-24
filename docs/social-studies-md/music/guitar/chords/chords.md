@@ -1,4 +1,0 @@
-# Guitar chords
-
-## E
-

@@ -1,3 +1,0 @@
-# Affinity Notes
-
-k

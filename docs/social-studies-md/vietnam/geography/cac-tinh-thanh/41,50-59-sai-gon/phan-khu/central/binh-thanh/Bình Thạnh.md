@@ -1,2 +1,0 @@
-# Bình Thạnh notes
-

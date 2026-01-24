@@ -1,3 +1,0 @@
-# Sale guide
-
-f

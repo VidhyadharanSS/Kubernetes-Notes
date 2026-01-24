@@ -1,3 +1,0 @@
-# Pennsylvania notes
-
-Pittsburgh, Philadelphia

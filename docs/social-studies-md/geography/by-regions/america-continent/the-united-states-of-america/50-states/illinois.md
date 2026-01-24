@@ -1,3 +1,0 @@
-# Illinois notes
-
-chicago

@@ -1,3 +1,0 @@
-# Michigan
-
-Detroit

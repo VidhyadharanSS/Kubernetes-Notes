@@ -1,3 +1,0 @@
-# Feng shui
-
-i

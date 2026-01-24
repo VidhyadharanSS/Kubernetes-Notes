@@ -1,3 +1,0 @@
-# Shakespeare Notes
-
-k
