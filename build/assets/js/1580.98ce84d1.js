@@ -1,1 +1,0 @@
-(globalThis.webpackChunkkubernetes_git_notes=globalThis.webpackChunkkubernetes_git_notes||[]).push([[1580],{1580(){}}]);
