@@ -10,9 +10,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // --- General Info (Using your updated details) ---
-  title: "Kubernetes Study Notes",
-  tagline: "Complete Kubernetes Reference Guide",
-  favicon: "img/favicon.ico",
+  title: "Vidhya Dharan Blog",
+  tagline: "Hi, I am Vidhya Dharan S S",
+  favicon: "img/favicon_io/337b1ccca70a7a173f9f0f0acecc8586 (1).jpg",
 
   // Future flags
   future: {
@@ -61,10 +61,10 @@ const config = {
     ({
       image: "img/neon-genesis-evangelion-ayanami-rei-moon.jpg", // Kept your image
       navbar: {
-        title: "Kubernetes Notes", // Cleaned up title
+        title: "Vidhya Dharan's Blog", // Cleaned up title
         logo: {
           alt: "K8s Logo",
-          src: "img/favicon_io/android-chrome-512x512.png", // Kept your logo path
+          src: "img/favicon_io/337b1ccca70a7a173f9f0f0acecc8586 (1).jpg", // Kept your logo path
         },
         items: [
           {
